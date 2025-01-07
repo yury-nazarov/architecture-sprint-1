@@ -49,8 +49,6 @@
 
 ## Уровень 2 
 
-Попытка собрать в `architecture-sprint-1/frontend/microfrontend/` - пока стабильно терпит фиаско. 
-
 Общая структура описана ниже:
 
 ### host
@@ -122,3 +120,6 @@
 │       └── auth.js
 ```
 
+# Уровень 3
+
+Попытка собрать в `architecture-sprint-1/frontend/microfrontend/` - пока стабильно терпит фиаско. 
